@@ -13,6 +13,7 @@ Contents:
 
    mentor-journey
    getting-started
+   useful-material
    commands
 
 
