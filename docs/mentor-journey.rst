@@ -53,3 +53,24 @@ My takaway from the Articles
     Typical development workflow at a hackathon.
 
 Source `Mentoring 101 (Medium Article) <https://medium.com/nwplusubc/mentoring-101-your-guide-to-hackathons-349045d9fbe9>`_
+
+
+Judging
+=======================================================
+
+* 14 rows with 168 Projects
+* Using Gavel
+    * Pariwise comparison
+    * Try not to skip projects
+* Judging criteria
+    * Technology: Algorythms, problem complexity, approach
+    * Design:
+        * Visual
+        * Human/Machine interaction
+        * Privacy
+    * Completion
+        * Finished / rough
+    * Do not jusged on
+        * Pitch
+        * Economic viability
+
